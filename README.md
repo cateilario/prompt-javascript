@@ -1,0 +1,1 @@
+Funcionamiento y puesta en práctica del método prompt de JavaScript
